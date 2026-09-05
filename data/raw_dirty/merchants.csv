@@ -1,0 +1,52 @@
+merchant_id,merchant_name,category,city,created_at
+M0001,FunZone 1,Entertainment,Tadipatri,2024-11-18
+M0002,QuickCart 2,E-commerce,Rourkela,2026-05-03
+M0003,QuickCart 3,E-commerce,Fatehpur,2023-11-13
+M0004,FunZone 4,Entertainment,Ratlam,2023-09-10
+M0005,MediCare 5,Healthcare,Meerut,2025-02-22
+M0006,QuickCart 6,E-commerce,Unnao,2023-09-06
+M0007,QuickCart 7,E-commerce,Saharanpur,2024-09-01
+M0008,TechMart 8,Electronics,Maheshtala,2025-10-16
+M0009,QuickCart 9,E-commerce,Gaya,2024-12-20
+M0010,MediCare 10,Healthcare,Meerut,2025-08-14
+M0011,TechMart 11,Electronics,Medininagar,2024-12-23
+M0012,FunZone 12,Entertainment,Kottayam,2023-10-12
+M0013,TechMart 13,Electronics,Dindigul,2026-03-21
+M0014,FoodExpress 14,Food & Dining,Allahabad,2024-04-19
+M0015,FunZone 15,Entertainment,Gwalior,2024-10-31
+M0016,TechMart 16,Electronics,Delhi,2026-01-11
+M0017,FoodExpress 17,Food & Dining,Etawah,2026-02-10
+M0018,FoodExpress 18,Food & Dining,Anantapuram,2024-11-26
+M0019,QuickCart 19,E-commerce,Tiruchirappalli,2023-10-14
+M0020,FunZone 20,Entertainment,Korba,2025-12-16
+M0021,MediCare 21,Healthcare,Ludhiana,2024-01-12
+M0022,TravelEase 22,Travel,Asansol,2025-09-26
+M0023,MediCare 23,Healthcare,Madurai,2026-02-24
+M0024,FoodExpress 24,Food & Dining,Udupi,2026-01-24
+M0025,QuickCart 25,E-commerce,Satna,2024-11-07
+M0026,QuickCart 26,E-commerce,Muzaffarpur,2024-09-26
+M0027,FoodExpress 27,Food & Dining,Gandhidham,2025-04-09
+M0028,TechMart 28,Electronics,Suryapet,2025-09-10
+M0029,TravelEase 29,Travel,Siwan,2025-02-12
+M0030,QuickCart 30,,Surat,2025-08-10
+M0031,FoodExpress 31,Food & Dining,Haldia,2024-05-05
+M0032,TravelEase 32,Travel,Bihar Sharif,2023-12-12
+M0033,TechMart 33,Electronics,Shahjahanpur,2026-06-17
+M0034,TechMart 34,Electronics,Mira-Bhayandar,2026-01-15
+M0035,TechMart 35,Electronics,Guna,2024-04-09
+M0036,FunZone 36,Entertainment,Raichur,2024-08-08
+M0037,FoodExpress 37,Food & Dining,Nangloi Jat,2024-08-24
+M0038,FoodExpress 38,Food & Dining,Guntakal,2024-09-24
+M0039,MediCare 39,Healthcare,Latur,2024-05-15
+M0040,MediCare 40,Healthcare,Ahmedabad,2024-01-09
+M0041,QuickCart 41,E-commerce,Khammam,2023-09-17
+M0042,FoodExpress 42,Food & Dining,Vadodara,2025-12-06
+M0043,TravelEase 43,,Bulandshahr,2024-01-27
+M0044,TravelEase 44,Travel,Ujjain,2025-03-21
+M0045,MediCare 45,Healthcare,Mau,2026-01-07
+M0046,FunZone 46,Entertainment,Gaya,2025-06-23
+M0047,FunZone 47,Entertainment,Firozabad,2024-09-16
+M0048,FunZone 48,Entertainment,Shimoga,2024-10-27
+M0049,TravelEase 49,Travel,Pali,2026-03-11
+M0050,QuickCart 50,E-commerce,Deoghar,2024-08-29
+M0050,QuickCart 50 (DUPLICATE),E-commerce,Deoghar,2024-08-29
