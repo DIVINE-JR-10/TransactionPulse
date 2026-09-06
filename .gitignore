@@ -1,5 +1,8 @@
 .venv/
+<<<<<<< HEAD
 __pycache__/
 *.pyc
 .DS_Store
 logs/
+=======
+>>>>>>> 53a8e742bc0fcac423083c0375af6c80fc5b7f95
